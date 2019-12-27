@@ -1,4 +1,4 @@
-// prgramme for additon,substraction,division,multiplication
+// prgramme for additon,substraction,division,multiplication in java
 import java.io.*;
 class Cal{
 	public static void main(String[] args) {
